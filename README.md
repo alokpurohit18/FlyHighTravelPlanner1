@@ -9,4 +9,15 @@
 
 -Application Images:
 
+![](src/Screenshots/Screenshot%20(12).png)
+
+![](src/Screenshots/Screenshot%20(13).png)
+
+![](src/Screenshots/Screenshot%20(14).png)
+
+![](src/Screenshots/Screenshot%20(15).png)
+
+![](src/Screenshots/Screenshot%20(16).png)
+
+![](src/Screenshots/Screenshot%20(17).png)
 

@@ -7,6 +7,8 @@
 
 -Hence, a trip within India can be easily planned as all the major cities and locations within India are available for selection.
 
+
+
 -APPLICATION SCREENSHOTS:
 
 ![](src/Screenshots/Screenshot%20(92).png)
